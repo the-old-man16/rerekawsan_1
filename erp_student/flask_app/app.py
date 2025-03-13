@@ -19,4 +19,3 @@ app.register_blueprint(admin_bp)
 if __name__ == '__main__':
     app.run(debug=True)
 
-#cd C:\Users\sKOA66\Desktop\erp_student\flask_app
